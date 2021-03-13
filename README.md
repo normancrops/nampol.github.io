@@ -1,3 +1,3 @@
-# nampol.github.io
+# normancrops.github.io
 
-My Portofolio
+My Portofolio | normancrops
